@@ -6,4 +6,4 @@ Nosso objetivo final foi criar uma página HTML, com arquivos CSS e interações
 
 A história escolhida foi de Hedy Lamarr, atriz de Hollywood que criou o Wi-Fi.
 
-Acesse meu site: https://silvanacosta.github.io/Hedy_Lamarr/
+Acesse meu site: https://silvanacosta.github.io/Hedy_Lamarr/Index.html
